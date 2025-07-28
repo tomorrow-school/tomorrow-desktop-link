@@ -51,8 +51,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>source</key>
-					<string>open location "https://01.tomorrow-school.ai/intra/astanahub/onboarding/games"
-</string>
+					<string>open location "https://01.tomorrow-school.ai/"</string>
 				</dict>
 				<key>BundleIdentifier</key>
 				<string>com.apple.Automator.RunScript</string>
@@ -69,15 +68,15 @@
 				<key>Class Name</key>
 				<string>RunScriptAction</string>
 				<key>InputUUID</key>
-				<string>08BE99B8-1006-4035-BB5F-638E922A69C5</string>
+				<string>830B9820-211F-4822-898F-8EC5C351A01F</string>
 				<key>Keywords</key>
 				<array>
 					<string>Запустить</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>91C86C4F-A8CE-4669-811C-32006FC1D19E</string>
+				<string>36179546-26AB-4524-AE5E-9A63F695001E</string>
 				<key>UUID</key>
-				<string>A8124F3C-BF56-48E0-9AD5-F91C1A3B00AC</string>
+				<string>4CFB07BB-B8FB-4AEB-BEF6-51199AFCFE72</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
